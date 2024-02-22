@@ -31,3 +31,4 @@ The BanglaLekha-Isolated dataset comprises 98,950 images categorized into 50 cla
 - Training Set (69,244 images): Used to train the recognition model, providing diverse examples for learning character patterns.
 - Validation Set (9,877 images): Reserved for fine-tuning model hyperparameters and monitoring training performance.
 - Test Set (19,829 images): Independently evaluated to assess the model's accuracy and generalization on unseen data.
+
