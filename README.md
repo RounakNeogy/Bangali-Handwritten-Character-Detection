@@ -22,9 +22,9 @@ The model is a Convolutional Neural Network (CNN) architecture augmented with a 
 ## Dataset
 ### CMATERdb 
 CMATERdb is a benchmark dataset for Bengali handwritten character recognition. It contains diverse handwritten characters for training and evaluation. The dataset is split into:
-- Training Set (10800 images): Used to train the model.
-- Validation Set (1200 images): Used for hyperparameter tuning and performance monitoring.
-- Test Set (3000 images): Used to evaluate the final model performance.
+- Training Set (10,800 images): Used to train the model.
+- Validation Set (1,200 images): Used for hyperparameter tuning and performance monitoring.
+- Test Set (3,000 images): Used to evaluate the final model performance.
 
 ### BanglaLekha-Isolated
 The BanglaLekha-Isolated dataset comprises 98,950 images categorized into 50 classes, utilized for Bengali character recognition tasks. The dataset is split into three subsets:
