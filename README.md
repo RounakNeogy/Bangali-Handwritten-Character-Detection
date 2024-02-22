@@ -11,7 +11,7 @@ The Bengali Handwritten Character Recognition project employs Python programming
 - Implemented in Python for flexibility, ease of use, and extensive libraries support.
 - Leveraged Keras, a high-level neural networks API, for building and training the model.
 - Employs TensorFlow as the backend for efficient computation and optimization.
-- Achieves an impressive accuracy of 96.37% on the CMATERdb Dataset and 93.17% on the BanglaLekha-Isolated dataset demonstrating the robustness and effectiveness of the developed model.
+- Achieves an impressive accuracy of ```96.37%``` on the CMATERdb Dataset and ```93.17%``` on the BanglaLekha-Isolated dataset demonstrating the robustness and effectiveness of the developed model.
 
 ## Image Processing
 Function named ```process_images()``` that processes images in the specified folder, iterates through each sub-folder, loads images, resizes them, converts to grayscale, and applies Otsu's thresholding for binary image conversion. The function distinguishes between training and test folders, adjusting the processing based on folder type. It prints the progress of image processing and the total number of images processed. This function is called twice, once for the training folder and once for the test folder, to prepare images for further processing in a Bengali handwritten character recognition system.
